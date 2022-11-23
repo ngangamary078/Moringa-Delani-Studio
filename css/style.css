@@ -1,0 +1,22 @@
+#home {
+    background-image: url("../images/backgrounds/h_img.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+#services {
+    background-image: url("../images/backgrounds/s_image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#contact-us {
+    background-image: url("../images/backgrounds/c_image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
