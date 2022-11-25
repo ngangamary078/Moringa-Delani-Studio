@@ -1,22 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+html {
+    scroll-behavior: smooth;
+}
+
 #home {
+
     background-image: url("../images/backgrounds/h_img.jpg");
+
     background-size: cover;
+
     background-position: center;
+
     background-repeat: no-repeat;
 
+ 
+
 }
+
 #services {
+
     background-image: url("../images/backgrounds/s_image.jpg");
+
     background-size: cover;
+
     background-position: center;
+
     background-repeat: no-repeat;
 
+ 
+
 }
+
+ 
 
 #contact-us {
+
     background-image: url("../images/backgrounds/c_image.jpg");
+
     background-size: cover;
+
     background-position: center;
+
     background-repeat: no-repeat;
 
+
+}
+
+.socials {
+    font-size: xx-small;
+}
+#submitButton {
+    text-decoration: none;
+}
+
+#sign-out {
+    font-size: small;
+    font-weight: bold;
+}
+
+#copyright {
+    font-size: xx-small;
+}
+
+.paragraph {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }

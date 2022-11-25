@@ -1,7 +1,7 @@
 $("document").ready(function(){
-    $(".images").hover(function(e){
+    $(".portfolio-img").hover(function(e){
         const target= e.target;
-        if(target.matches("images")){
+        if(target.matches("img")){
             const titlename =target.alt.toUpperCase();
             $(target).prop("title",titlename);
         }
