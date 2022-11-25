@@ -1,5 +1,5 @@
 # Project name.
-Delani Studio
+DELANI STUDIO
 
 ### This project is about Quiz Board, Version Date: 23rd Nov 2022
 #### Author
@@ -10,6 +10,8 @@ This project is about Delani Studio
 
 ## BDD 
 See a small description of what the application does on the landing page.
+You are able to hover on the portifolio.
+you are able to send an e-mail
 
 
 
