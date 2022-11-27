@@ -12,6 +12,7 @@ html {
     background-position: center;
 
     background-repeat: no-repeat;
+    font-family: 'Gabriela', serif;
 
  
 
@@ -26,6 +27,7 @@ html {
     background-position: center;
 
     background-repeat: no-repeat;
+    font-family: 'Gabriela', serif;
 
  
 
@@ -42,6 +44,7 @@ html {
     background-position: center;
 
     background-repeat: no-repeat;
+    font-family: 'Copse', serif;
 
 
 }
@@ -63,5 +66,29 @@ html {
 }
 
 .paragraph {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Gabriela', serif;
 }
+
+h4{
+    font-family:'Gabriela', serif; 
+}
+h2{
+    font-family:'Gabriela', serif;
+  }
+  #WHAT WE DO{
+    text-align: center;
+    background-position: center center;
+    font-family: 'quattrocento', serif;
+    padding: 40px;
+  }
+  
+  .description{
+    display: none;
+  }
+  .workImages{
+    display: block;
+  }
+  .workImages:hover, .description:hover {
+    cursor: pointer;
+  }
+  
