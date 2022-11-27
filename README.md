@@ -11,7 +11,9 @@ This project is about Delani Studio
 ## BDD 
 See a small description of what the application does on the landing page.
 You are able to hover on the portifolio.
-you are able to send an e-mail
+On mouse click on WHAT WE DO Images you are able to see design, web development and product.
+You are able to send an e-mail.
+
 
 
 
