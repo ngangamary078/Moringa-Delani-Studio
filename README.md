@@ -1,7 +1,7 @@
 # Project name.
 DELANI STUDIO
 
-### This project is about Quiz Board, Version Date: 23rd Nov 2022
+### This project is about Delani Studio, Version Date: 23rd Nov 2022
 #### Author
 Mary Ng'ang'a
 
